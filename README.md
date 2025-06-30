@@ -50,7 +50,7 @@ Built using **Python** and **Pygame**, and enhanced by integrating **Amazon Q CL
 
 ```bash
 git clone https://github.com/your-username/Snake_game.git
-cd snake-game-qcli
+cd Snake_game
 ```
 ### 🔹 2. Install Dependencies
 ```bash
