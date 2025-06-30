@@ -49,7 +49,7 @@ Built using **Python** and **Pygame**, and enhanced by integrating **Amazon Q CL
 ### 🔹 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/snake-game-qcli.git
+git clone https://github.com/your-username/Snake_game.git
 cd snake-game-qcli
 ```
 ### 🔹 2. Install Dependencies
